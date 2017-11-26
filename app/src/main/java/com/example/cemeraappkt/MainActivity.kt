@@ -12,7 +12,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
-    val CAMERA_REQUEST_CODE = 1
+    val CAMERA_REQUEST_CODE = 0
     lateinit var nameTxt: String
 
     override fun onCreate(savedInstanceState: Bundle?) {
