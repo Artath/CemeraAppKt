@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Камера</string>
+    <string name="photo_btn_txt">Сделать фото</string>
+    <string name="name_edit_txt">Введите свое имя</string>
+    <string name="type_name_toast">Вы не ввели свое имя</string>
+    <string name="unrecognized_toast">Неизвестный запрос</string>
+</resources>
