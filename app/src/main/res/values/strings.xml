@@ -4,4 +4,6 @@
     <string name="name_edit_txt">Enter your name</string>
     <string name="type_name_toast">You did not type your name</string>
     <string name="unrecognized_toast">Unrecognized request</string>
+    <string name="comment">You are insanely good photographer, </string>
+
 </resources>

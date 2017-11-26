@@ -11,6 +11,6 @@ class PhotoActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_photo)
         imageView.setImageBitmap(intent.extras.getParcelable<Bitmap>("photo"))
-        txtview.text = intent.extras.getString("name")
+        txtView.text =  intent.extras.getString("name")
     }
 }

@@ -5,7 +5,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    tools:context="com.example.cemeraappkt.PhotoActivity">
+    tools:context="com.example.cemeraappkt.PhotoActivity"
+    android:background="@color/colorPrimaryDark">
 
 
     <ImageView
@@ -16,12 +17,11 @@
         />
 
     <TextView
-        android:id="@+id/txtview"
+        android:id="@+id/txtView"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
         android:gravity="center"
-        android:text="afsagsdfhsths"/>
-
+        android:textSize="30sp"/>
 
 </LinearLayout>
